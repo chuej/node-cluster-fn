@@ -1,0 +1,30 @@
+{
+  "name": "cluster-fn",
+  "version": "0.0.1",
+  "description": "run functions in nodejs cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^1.4.0",
+    "coffee-script": "^1.9.3",
+    "debug": "2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chuej/node-cluster-fn.git"
+  },
+  "keywords": [
+    "cluster",
+    "function",
+    "fork",
+    "worker"
+  ],
+  "author": "Ezra Chu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuej/node-cluster-fn/issues"
+  },
+  "homepage": "https://github.com/chuej/node-cluster-fn#readme"
+}

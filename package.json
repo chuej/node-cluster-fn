@@ -1,6 +1,6 @@
 {
   "name": "cluster-fn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "run functions in nodejs cluster",
   "main": "index.js",
   "scripts": {
